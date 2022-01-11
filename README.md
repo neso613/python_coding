@@ -2,4 +2,4 @@
 
 du -sh *
 
-https://tmate.io/
+https://tmate.io/ - better for terminal sharing
