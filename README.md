@@ -2,6 +2,10 @@
 to check memory usage 
 du -sh *
 
+to check no of file in dir
+ls | wc -l
+
+
 https://tmate.io/ - better for terminal sharing 
 
 python programming book is also added.
