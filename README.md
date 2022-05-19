@@ -1,8 +1,10 @@
 # Python programming questions
 to check memory usage 
+
 du -sh *
 
-to check no of file in dir
+to check no of file in dir 
+
 ls | wc -l
 
 
