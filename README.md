@@ -7,6 +7,10 @@ to check no of file in dir
 
 ls | wc -l
 
+to check no of lines in a file
+
+cat filename | wc
+
 
 https://tmate.io/ - better for terminal sharing 
 
