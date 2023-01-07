@@ -15,9 +15,13 @@ to search last run commands on terminal
 
 ctrl+r
 
-to edit file ,another option of vim
+to see file ,another option of cat
 
 less filename.txt
+
+to edit file, another option of vim
+
+nano filename 
 
 https://tmate.io/ - better for terminal sharing 
 
