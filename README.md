@@ -23,6 +23,10 @@ to edit file, another option of vim
 
 nano filename 
 
+to search same name files inside samw directory 
+
+ls filename*
+
 https://tmate.io/ - better for terminal sharing 
 
 python programming book is also added.
