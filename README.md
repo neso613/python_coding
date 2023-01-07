@@ -11,6 +11,9 @@ to check no of lines in a file
 
 cat filename | wc
 
+to search last run commands on terminal 
+
+ctrl+r
 
 https://tmate.io/ - better for terminal sharing 
 
